@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse",
+  "description": "Wi-Fi & mobile data upload/download speed, SIM signal strength, and battery level & temperature notification monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
